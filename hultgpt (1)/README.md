@@ -6,7 +6,7 @@ This is a simple ChatGPT-powered app built with Streamlit.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/hultgpt.git
+   git clone https://github.com/Raniaabusada/hultgpt.git
    ```
 2. Navigate to the project folder:
    ```bash
