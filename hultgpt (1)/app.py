@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
-st.title("HultGPT: Your Own ChatGPT App 🤖")
+st.title("HultGPT: Your Own ChatGPT App")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
